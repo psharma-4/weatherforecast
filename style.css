@@ -102,8 +102,15 @@ z-index: 100;
         background-image : none;
        
     }
+    .input{
+        position: relative;
+        left:1%;
+    }
     input{
         width: 60%;
+    }
+    button{
+        width: 20%;
     }
     .box1{
         float: none;
