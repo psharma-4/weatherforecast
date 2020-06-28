@@ -27,7 +27,7 @@ body{
 .input{
     
     position: relative;
-    top:8%; 
+   
     left: 20%;
     
 }
@@ -64,9 +64,9 @@ button{
     text-decoration-style: solid;
 }
 .footer{
-    position: absolute;
+    position: relative;
     left: 40%;
-    bottom:1%;
+    top:50%;
     color: black;
 }
 /* #preloader{
