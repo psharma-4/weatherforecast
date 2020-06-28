@@ -3,12 +3,13 @@ body{
     background-color: rgb(23, 180, 233) ;
    overflow-x: hidden;
    background-image: url("forecast.jpg");
+  
    background-repeat: no-repeat;
   
 }
 
 .container{
-    /* overflow: hidden; */
+    overflow: hidden;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
